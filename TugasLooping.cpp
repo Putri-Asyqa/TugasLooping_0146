@@ -35,3 +35,5 @@ bool isFibonacci(int x) {
         return false;
     }
 }
+
+// Prosedur input
