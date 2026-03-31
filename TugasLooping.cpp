@@ -50,3 +50,5 @@ void tampilPrima() {
         cout << n << " bukan bilangan prima" << endl;
     }
 }
+
+// Prosedur output hasil fibonacci
