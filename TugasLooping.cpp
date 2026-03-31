@@ -52,3 +52,4 @@ void tampilPrima() {
 }
 
 // Prosedur output hasil fibonacci
+void tampilFibonacci() {
