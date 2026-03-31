@@ -59,3 +59,5 @@ void tampilFibonacci() {
         cout << n << " bukan bilangan Fibonacci" << endl;
     }
 }
+
+// Function menu
