@@ -28,3 +28,10 @@ bool isFibonacci(int x) {
         a = b;
         b = c;
     }
+
+    if (x == 0 || x == 1 || c == x) {
+        return true;
+    } else {
+        return false;
+    }
+}
