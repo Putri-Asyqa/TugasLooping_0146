@@ -41,3 +41,5 @@ void inputAngka() {
     cout << "Masukkan angka: ";
     cin >> n;
 }
+
+// Prosedur output hasil prima
