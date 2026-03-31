@@ -61,3 +61,4 @@ void tampilFibonacci() {
 }
 
 // Function menu
+void tampilMenu() {
